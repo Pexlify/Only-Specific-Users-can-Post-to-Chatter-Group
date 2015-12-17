@@ -1,4 +1,4 @@
-# Only-Specific-Users-can-Post-to-Chatter-Group
+# Allowing Only Specific Users to Post to a Chatter Group
 
 By default Salesforce only allows you to make a chatter group public or private. If you decide to make a chatter group private, any users who are not a member of that group cannot see or add posts to that group.
 
